@@ -1,3 +1,5 @@
+# boj 1931
+
 import sys
 
 n = int(sys.stdin.readline())
